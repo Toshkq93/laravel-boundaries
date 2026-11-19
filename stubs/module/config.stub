@@ -1,0 +1,7 @@
+<?php
+
+// Config of the {{ name }} module: config('{{ alias }}.key').
+
+return [
+    //
+];

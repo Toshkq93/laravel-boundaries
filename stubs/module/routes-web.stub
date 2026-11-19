@@ -1,0 +1,7 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+// Web routes of the {{ name }} module, with the "web" middleware group.
+
+// Route::get('/{{ slug }}', fn () => view('welcome'));

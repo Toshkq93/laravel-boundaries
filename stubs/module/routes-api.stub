@@ -1,0 +1,7 @@
+<?php
+
+use Illuminate\Support\Facades\Route;
+
+// API routes of the {{ name }} module, with the "api" middleware group and the /api prefix.
+
+// Route::get('/{{ slug }}', fn () => ['module' => '{{ name }}']);
